@@ -4,6 +4,7 @@
   "description": "Full Stack Dev Primary Repository - Event project",
   "main": "index.html",
   "scripts": {
+    "start": "npx live-server src/ --port 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
