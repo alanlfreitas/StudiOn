@@ -1,0 +1,33 @@
+Fases de um projeto ou produto
+Implementações ou bugs
+
+Scrum(Metodologi de gerenciamento de projetos)
+
+    PM, Tech, lead, CTO
+
+    Jira
+        Backlog (tickets)
+        Novas funcionalidades
+        Bugs
+
+    Releases
+        1 por mes
+        4 por ano
+
+    Sprints
+        2 sprints de 10 dias(1 mes de release)
+    10 recursos
+        5 seniors
+        3 plenos
+        2 juniors
+        
+    Tasks
+    Daily Meetings
+
+Projeto 
+    Discover
+    Requisitos
+    Solução
+        Design da Solução
+        Prototipação
+    Desenvolvimento
